@@ -60,7 +60,7 @@ async function tableHTML (data){
   }
 }
 
-//BUTTON
+//BUTTON HERE
 button.addEventListener('click', ()=>{
     let userTyped = cityId.value.toLowerCase();
     console.log("the city the user typed is: ", userTyped);
